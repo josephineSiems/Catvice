@@ -5,6 +5,7 @@ There also is a trivia quiz, to test your knowledge and some relaxing youtube mu
 This Website was mostly made to play around with Angular and TypeScript.  
   
 ![A screenshot of the main page.](catvice_page.png)
+![A screenshot of the main page.](catvice2.png)
 
 # Angular
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
